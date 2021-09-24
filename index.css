@@ -1,0 +1,13 @@
+body{
+    background: gray;
+}
+
+.name{ color:black;
+    font-size: 50px;
+    border: 4px solid aquamarine
+
+padding-top: 50px;
+padding-left: 20px;
+padding-bottom: 50px;
+padding-right: 50px;
+}
